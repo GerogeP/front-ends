@@ -1,3 +1,6 @@
 .jar
 /typescript/**/node_modules/
 /rust/**/target/
+**.env*
+**.env.local
+
